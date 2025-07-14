@@ -1,0 +1,12 @@
+com\mycompany\interfazpruebas\CalibracionManager.class
+com\mycompany\interfazpruebas\MedidorVelocidadAngular.class
+com\mycompany\interfazpruebas\MedidorAnguloFlexion.class
+com\mycompany\interfazpruebas\GraficadorAnguloCSV.class
+com\mycompany\interfazpruebas\FiltroKalman1D.class
+com\mycompany\interfazpruebas\PruebaPasivaMovilRunner.class
+com\mycompany\interfazpruebas\GraficadorVelocidadCSV.class
+com\mycompany\interfazpruebas\PruebaPasivaInmovilRunner.class
+com\mycompany\interfazpruebas\EscalaDolorEVA.class
+com\mycompany\interfazpruebas\CalibradorPCA.class
+com\mycompany\interfazpruebas\SerialIMUReader.class
+com\mycompany\interfazpruebas\InterfazPruebas.class
